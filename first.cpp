@@ -1,2 +1,2 @@
 #something meaningfule
-// bye is enough
+// good bye
