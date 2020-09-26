@@ -43,4 +43,5 @@ int main ()
 {
     float lArr[5] = {3.4, 4,5,6,9};
     std::cout<<max1(lArr)<<std::endl;
+    std::begin(lArr);
 }
